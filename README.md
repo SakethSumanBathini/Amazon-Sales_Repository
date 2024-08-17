@@ -1,4 +1,3 @@
-
 # **Amazon Sales Analysis Tableau Dashboard**
 
 ## **Project Overview**
@@ -30,15 +29,29 @@ This project is a comprehensive analysis of Amazon sales data in India, leveragi
    - **Imported** a dataset containing over 130,000 records related to Amazon sales in India into Tableau.
    - **Explored** the data to understand its structure, key fields, and potential insights.
 
+   ![Data Source](./Data%20Set%20Data%20Source.png)
+
 2. **Data Preparation**
    - **Created calculated fields** for various metrics like total quantity, total amount, and distinct counts of sizes and categories.
    - **Filtered** and cleaned the data to ensure accuracy and relevance in visualizations.
 
 3. **Visualization Development**
    - **Stacked Bar Charts**: Developed to show sales quantity by week and category, and size and category.
+   
+     ![Bar Graph by Week and Category](./Bar%20Graph%20by%20week%20and%20category.png)
+     ![Bar Graph by Size and Category](./Bar%20graph%20by%20Size%20and%20category.png)
+
    - **Line Charts**: Used to track revenue trends over time.
+   
+     ![Line Chart by Week and Category](./Line%20chart%20by%20week%20and%20category.png)
+
    - **Donut Chart**: Created to visualize the distribution of courier status.
+   
+     ![Pie Chart for Quantity by Courier Status and Category](./Pie%20chart%20for%20Quantity%20by%20Courier%20Status%20and%20Category.png)
+
    - **Geospatial Map**: Designed to show sales distribution across different states in India.
+   
+     ![Map Quantity by State](./Map%20.png)
 
 4. **KPI Dashboards**
    - **Implemented** key performance indicators (KPIs) to track overall sales metrics like total quantity (1.16M+ units), total revenue (₹78.59M+), and number of product categories (9).
@@ -52,6 +65,8 @@ This project is a comprehensive analysis of Amazon sales data in India, leveragi
    - **Assembled** the various visualizations into a cohesive and interactive dashboard.
    - **Formatted** the dashboard with branding elements, including an Amazon logo, and set it to be visually appealing and easy to navigate.
 
+     ![Dashboard](./Amazon%20Sales%20Dashboard.png)
+
 7. **Testing and Refinement**
    - **Tested** the dashboard for usability and accuracy.
    - **Refined** visualizations based on feedback from stakeholders to ensure the dashboard met their needs.
@@ -63,3 +78,4 @@ This project is a comprehensive analysis of Amazon sales data in India, leveragi
 - **Identified** high-performing product categories and regions, enabling targeted marketing efforts.
 - **Improved** understanding of customer behavior and sales trends, leading to more effective sales strategies.
 - **Streamlined** logistics by analyzing shipment statuses, helping to optimize delivery processes.
+
