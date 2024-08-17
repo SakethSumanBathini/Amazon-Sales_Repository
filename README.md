@@ -40,6 +40,8 @@ This project is a comprehensive analysis of Amazon sales data in India, leveragi
    
      ![Bar Graph by Week and Category](./Bar%20Graph%20by%20week%20and%20category.png)
      ![Bar Graph by Size and Category](./Bar%20graph%20by%20Size%20and%20category.png)
+     ![Bar Graph by Status and Category](./Bar%20graph%20by%20status%20and%20category.png)
+     ![Bar Graph of Top 10 States by Quantity](./Bar%20graph%20of%20Top%2010%20countried%20by%20Quantity.png)
 
    - **Line Charts**: Used to track revenue trends over time.
    
@@ -78,4 +80,3 @@ This project is a comprehensive analysis of Amazon sales data in India, leveragi
 - **Identified** high-performing product categories and regions, enabling targeted marketing efforts.
 - **Improved** understanding of customer behavior and sales trends, leading to more effective sales strategies.
 - **Streamlined** logistics by analyzing shipment statuses, helping to optimize delivery processes.
-
