@@ -1,4 +1,4 @@
-# Amazon-Sales-Project Tableau
+
 # **Amazon Sales Analysis Tableau Dashboard**
 
 ## **Project Overview**
